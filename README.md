@@ -19,6 +19,8 @@
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgomes1k&layout=compact&theme=dark" />
 </a>
 
+##
+
 <div align="center" padding-top="10px"> 
 <a href="https://www.instagram.com/arthurgomes1k/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:arthurgomes1k@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
