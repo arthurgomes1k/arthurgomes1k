@@ -18,5 +18,5 @@ Here are some ideas to get you started:
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurgomes1k&show_icons=true&count_private=true&hide_border=true&theme=dark" alt="Arthur github stats" />
 </a>
 <a href="https://www.linkedin.com/in/arthur-gomes-3b6497236/">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rthurgomes1k&layout=compact&hide_border=true&theme=dark" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgomes1k&layout=compact&hide_border=true&theme=dark" />
 </a>
