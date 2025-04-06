@@ -1,12 +1,11 @@
 ### Oi, Meu nome é Arthur 👋
 
-
-<a href="https://www.linkedin.com/in/arthur-gomes-3b6497236/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurgomes1k&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Arthur github stats" />
-</a>
-<a href="https://www.linkedin.com/in/arthur-gomes-3b6497236/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgomes1k&layout=compact&theme=dark" />
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/arthur-gomes-3b6497236/">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurgomes1k&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Arthur github stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgomes1k&layout=compact&theme=dark" />
+  </a>
+</div>
 
 <div align="center">
   
